@@ -7,7 +7,7 @@ source: Poetry
 ---
 
 - Your skin like dawn
-- Mine like musk[^fn1]
+- Mine like dusk[^fn1]
 -  
 - One paints the beginning
 - of a certain end. 
@@ -22,4 +22,4 @@ source: Poetry
 
 ## Footnotes
 
-[^fn1]: an odor
+[^fn1]: addddddd
