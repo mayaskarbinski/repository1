@@ -1,13 +1,13 @@
 ---
 layout: poem
-title: "Passing Time"
+title: "Passing Time"[^fn1]
 author: Maya Angelou
 editor: Maya Skarbinski
 source: Poetry 
 ---
 
 - Your skin like dawn
-- Mine like dusk[^fn1]
+- Mine like dusk[^fn2]
 
 
 - One paints the beginning
@@ -15,7 +15,7 @@ source: Poetry
      
 
 - The other, the end of a 
-- sure beginning. 
+- sure beginning.[^fn3]
 
 
 <br>
@@ -24,4 +24,8 @@ source: Poetry
 
 ## Footnotes
 
-[^fn1]: addddddd
+[^fn1]: A poem about youth vs old age
+
+[^fn2]: dawn and dusk = alliteration
+
+[^fn3]: This inversion of the previous two lines makes the poem elegant. 
