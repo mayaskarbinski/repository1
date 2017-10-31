@@ -1,12 +1,12 @@
 ---
 layout: poem
-title: "Passing Time"[^fn1]
+title: "Passing Time"
 author: Maya Angelou
 editor: Maya Skarbinski
 source: Poetry 
 ---
 
-- Your skin like dawn
+- Your skin like dawn[^fn1]
 - Mine like dusk[^fn2]
 
 
